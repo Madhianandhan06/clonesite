@@ -64,7 +64,8 @@ nav ul{
 }
 
 .hero-page{
-    background-color: #05070e;
+    background-color: #191f36;
+    color: white;
     display: flex;
 }
 
@@ -117,6 +118,7 @@ nav ul{
 }
 .call{
     background: #141212;
+    color:white;
     padding: 1rem 2rem;
     border-radius: 8px;
 }
